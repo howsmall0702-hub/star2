@@ -1,0 +1,5 @@
+{
+  "name": "TW-Quant: 台股動能交易系統",
+  "description": "專為台股設計的交易儀表板，基於 Kristjan Qullamaggie 動能策略。具備 200MA 篩選、風險部位計算與 AI 型態辨識功能。",
+  "requestFramePermissions": []
+}
